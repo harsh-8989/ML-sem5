@@ -1,4 +1,4 @@
-,a1,a2,a3,a4,a5,a6,d1,d2
+,'Temperature of patient', 'Occurrence of nausea', 'Lumbar pain', 'Urine pushing', 'Micturition pains','Burning of urethra, itch, swelling of urethra outlet ', 'decision: Inflammation of urinary bladder','decision: Nephritis of renal pelvis origin'
 0,35.9,0,0,1,1,1,1,0
 1,35.9,0,1,0,0,0,0,0
 2,36.0,0,0,1,1,1,1,0
